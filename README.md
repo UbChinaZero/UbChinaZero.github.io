@@ -2,6 +2,7 @@
 layout: default
 permalink: /404
 footer: false
+color:pink
 ---
 ## 开心快乐每一天
 
